@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "302465927507",
+    "project_id": "olx-curso-android-e00b6",
+    "storage_bucket": "olx-curso-android-e00b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:302465927507:android:7c02f27cf98aaf72e6b9a6",
+        "android_client_info": {
+          "package_name": "com.lucaspetrocini.projetoolx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "302465927507-d1vbaj8g2sjva2llnkm2ndm3ub081f1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lucaspetrocini.projetoolx",
+            "certificate_hash": "e9d14623a1e269361dbfbf6f09d75d1f04631ee9"
+          }
+        },
+        {
+          "client_id": "302465927507-3rr3j4dkt2c5k3q2g6akeinb0q52vg9q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9OiWCUdwfTbTrL1eEsMGizSZ6uJ5H2m0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "302465927507-3rr3j4dkt2c5k3q2g6akeinb0q52vg9q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
